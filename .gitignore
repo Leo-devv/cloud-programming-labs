@@ -1,7 +1,6 @@
 # Dependencies
 node_modules/
 
-# Claude Code local settings
 .claude/
 
 # IDE
@@ -19,3 +18,5 @@ npm-debug.log*
 # Environment
 .env
 .env.local
+.history
+/history
