@@ -5,8 +5,8 @@ This repository contains my JavaScript and Python exercises for the Cloud Progra
 ## Prerequisites
 
 - Node.js (v18+ recommended)
-- Python 3.10+
-- Any text editor or online IDE (Replit, CodeSandbox, StackBlitz)
+- Python 3.12+ (for match/case support)
+- Any text editor or online IDE (Google Colab, PythonAnywhere, CodeSandbox, StackBlitz)
 
 ## Folder Structure
 
@@ -23,18 +23,18 @@ js/
 └── task3c/     Pipelines & compose    (S3_PIPE_01 - S3_PIPE_06)
 ```
 
-### Python
+### Python (50 exercises)
 ```
 python/
-├── task0/      Setup                  (S0_SETUP_01 - S0_SETUP_03)
-├── task1/      Variables & Types      (S1_VAR_01 - S1_VAR_10)
-├── task1b/     Conditionals (if)      (S1_IF_01 - S1_IF_03)
-├── task1c/     Match/Case             (S1_MC_01 - S1_MC_03)
-├── task2/      List operations        (S2_LIST_01 - S2_LIST_06)
-├── task2b/     Loops                  (S2_FOR_01 - S2_FOR_06)
-├── task3a/     Dict operations        (S3_DICT_01 - S3_DICT_06)
-├── task3b/     Lambda functions       (S3_LAM_01 - S3_LAM_06)
-└── task3c/     Pipelines              (S3_PIPE_01 - S3_PIPE_07)
+├── task0/      Setup & Workflow       (S0_SETUP_01 - S0_SETUP_03)  [3 files]
+├── task1/      Variables & Types      (S1_VAR_01 - S1_VAR_10)      [10 files]
+├── task1b/     Conditionals (if)      (S1_IF_01 - S1_IF_03)        [3 files]
+├── task1c/     match/case (3.10+)     (S1_MC_01 - S1_MC_03)        [3 files]
+├── task2/      List operations        (S2_LIST_01 - S2_LIST_06)    [6 files]
+├── task2b/     Loops                  (S2_FOR_01 - S2_FOR_06)      [6 files]
+├── task3a/     Dict operations        (S3_DICT_01 - S3_DICT_06)    [6 files]
+├── task3b/     Lambda functions       (S3_LAM_01 - S3_LAM_06)      [6 files]
+└── task3c/     Pipelines + bonus      (S3_PIPE_01 - S3_PIPE_07)    [7 files]
 ```
 
 ## Topics Covered
